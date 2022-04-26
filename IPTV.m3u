@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-country="MY" tvg-language="Malay" tvg-logo="https://images.app.goo.gl/q4AV1NUo1Wnn62Qp9" group-title="Malaysia",TV1
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-country="MY" tvg-language="Malay" tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm_tv1_my.png" group-title="Malaysia",TV1
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
-#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-country="MY" tvg-language="Malay" tvg-logo="https://images.app.goo.gl/DzfRwQ9wiqbrKVJXA" group-title="Malaysia",TV2
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-country="MY" tvg-language="Malay" tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm2_malaysia.png" group-title="Malaysia",TV2
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
-#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-country="MY" tvg-language="Malay" tvg-logo="https://images.app.goo.gl/aLkHgbptutg81iUy9" group-title="Malaysia",TV3
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-country="MY" tvg-language="Malay" tvg-logo="http://www.lyngsat-logo.com/hires/tt/tv3_my.png" group-title="Malaysia",TV3
 http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
 
 #EXTINF:-1 tvg-id="TV6" tvg-name="TV6" tvg-country="MY" tvg-language="Malay" tvg-logo="https://images.app.goo.gl/JhjXiNJbbsU8rgdr7" group-title="Malaysia",TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
-#EXTINF:-1 tvg-id="NTV7 DidikTv" tvg-name="DidikTv" tvg-country="MY" tvg-language="Malay" tvg-logo="https://images.app.goo.gl/6PmuWhuMVJq7t6TTA" group-title="Malaysia",NTV7
+#EXTINF:-1 tvg-id="NTV7 DidikTv" tvg-name="DidikTv" tvg-country="MY" tvg-language="Malay" tvg-logo="http://www.lyngsat-logo.com/hires/nn/ntv7.png" group-title="Malaysia",NTV7
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 
-#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-country="MY" tvg-language="Malay" tvg-logo="https://images.app.goo.gl/PErAak7dCtYmwhTWA" group-title="Malaysia",TV8
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-country="MY" tvg-language="Malay" tvg-logo="http://www.lyngsat-logo.com/logo/tv/num/8tv_my.png" group-title="Malaysia",8TV
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 
-#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-country="MY" tvg-language="Malay" tvg-logo="https://images.app.goo.gl/nVndd8UPceddZE2cA" group-title="Malaysia",TV9
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-country="MY" tvg-language="Malay" tvg-logo="http://www.lyngsat-logo.com/hires/tt/tv9_my.png" group-title="Malaysia",TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
 #EXTINF:-1 tvg-id="Okey" tvg-name="Okey" tvg-country="MY" tvg-language="Malay" tvg-logo="https://images.app.goo.gl/PttrU8tZ2qxJmQfM9" group-title="Malaysia",Okey
