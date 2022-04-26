@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-country="MY" tvg-language="Malay" tvg-logo="https://images.app.goo.gl/q4AV1NUo1Wnn62Qp9" group-title="Malaysia",TV1
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-country="MY" tvg-language="Malay" tvg-logo="https://images.app.goo.gl/DzfRwQ9wiqbrKVJXA" group-title="Malaysia",TV2
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-country="MY" tvg-language="Malay" tvg-logo="https://images.app.goo.gl/aLkHgbptutg81iUy9" group-title="Malaysia",TV3
+http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
+
+#EXTINF:-1 tvg-id="TV6" tvg-name="TV6" tvg-country="MY" tvg-language="Malay" tvg-logo="https://images.app.goo.gl/JhjXiNJbbsU8rgdr7" group-title="Malaysia",TV6
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+
+#EXTINF:-1 tvg-id="NTV7 DidikTv" tvg-name="DidikTv" tvg-country="MY" tvg-language="Malay" tvg-logo="https://images.app.goo.gl/6PmuWhuMVJq7t6TTA" group-title="Malaysia",NTV7
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-country="MY" tvg-language="Malay" tvg-logo="https://images.app.goo.gl/PErAak7dCtYmwhTWA" group-title="Malaysia",TV8
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-country="MY" tvg-language="Malay" tvg-logo="https://images.app.goo.gl/nVndd8UPceddZE2cA" group-title="Malaysia",TV9
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+
+#EXTINF:-1 tvg-id="Okey" tvg-name="Okey" tvg-country="MY" tvg-language="Malay" tvg-logo="https://images.app.goo.gl/PttrU8tZ2qxJmQfM9" group-title="Malaysia",Okey
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+
+#EXTINF:-1 tvg-id="TVS.my" tvg-name="TVS" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="Malaysia",TVS
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+
+#EXTINF:-1 tvg-id="Awani.my" tvg-name="Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://images.app.goo.gl/WVZxmTKTMhp1MFZi9" group-title="Malaysia",Awani HD
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#EXTINF:-1 tvg-id="TVIkim.my" tvg-name="TV Ikim" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="Malaysia",TV Ikim
+http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BeritaRTM.my" tvg-name="Berita RTM" tvg-country="MY" tvg-language="Malay" tvg-logo="https://images.app.goo.gl/JTgqcja9rPAgynJK9" group-title="Malaysia", Berita RTM
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="Astro" tvg-logo="https://images.app.goo.gl/JxMg547UDTjaer6M9" group-title="Astro (Not Complete)", Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil SD" tvg-country="MY" tvg-language="Tamil" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="General",Astro Vaanavil
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
